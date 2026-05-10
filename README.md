@@ -57,4 +57,6 @@ After migration, the following validation checks were performed:
 
 Total Sales: 2990.00
 
+Author:Sukhkirandeep Kaur Sidhu,Ph.D.
+
 
